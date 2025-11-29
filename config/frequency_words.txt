@@ -1,113 +1,200 @@
-胖东来
-于东来
+# Tech & Engineering
+golang
+go-programming
+gin-framework
+backend-development
+api-design
+distributed-systems
+microservices
+real-time-bidding
+adtech
+scalability
+system-design
+cloud-computing
+kubernetes
+docker
+linux
+open-source
 
-DeepSeek
-梁文锋
+# AI & Machine Learning
+artificial-intelligence
+machine-learning
+deep-learning
+generative-ai
+llm
+vector-databases
+transformers
+ai-research
+ai-hardware
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+# AI Trends & Industry
+ai-trends
+agi-development
+ai-breakthroughs
+ai-startups
+ai-investments
+ai-funding
+ai-ethics
+ai-governance
+ai-safety
+ai-standards
+ai-infrastructure
+ai-cloud
+ai-chipsets
+ai-accelerators
 
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
+# AI Companies & Labs
 openai
-sora
+google-deepmind
+anthropic
+meta-ai
+microsoft-ai
+xai
+nvidia-ai
+amazon-ai
+ibm-watson
+huggingface
+stability-ai
+mistral-ai
+cohere-ai
+databricks
+perplexity
 
-claude
-Anthropic
+# LLMs & Chatbots
+chatbots
+large-language-models
+llm-updates
+llm-benchmarks
+instruction-tuning
+rlhf
+inference-optimization
+fine-tuning
+ai-agents
+autonomous-agents
+chatbot-platforms
+voice-ai
+speech-models
+multimodal-models
 
-iphone
-ipad
-mac
-ios
+# Research & Papers
+arxiv-ai
+neural-networks
+transformer-models
+diffusion-models
+foundation-models
+reinforcement-learning
+self-supervised-learning
+scaling-laws
+ai-evaluation
+ai-benchmarks
 
-ai
-!gai
-人工智能
+# Productivity & Tools
+ai-coding
+ai-productivity-tools
+ai-integration
+ai-automation
+ai-workflows
 
-自动驾驶
+# Mobile & Flutter
+flutter
+dart
+firebase
+cross-platform-development
 
-机器人
+# DevOps & Tools
+devops
+cicd
+monitoring
+github-copilot
+vscode
+debian
 
-国产
-中国
+# Hardware & Laptops
+laptop-benchmarks
+nvidia
+amd
+intel
+linux-laptops
 
-美国
-日本
-韩国
+# UFC / MMA
+ufc
+mma
+dana-white
+ufc-fight-night
+ufc-ppv
+pfl
+bellator
 
-芯片
-光刻机
+# Formula 1
+f1
+formula-1
+grand-prix
+f1-qualifying
+f1-standings
 
-科技
+# Basketball
+nba
+nba-trades
+nba-playoffs
+euroleague
 
-核能
+# Football (Soccer)
+football
+soccer
+champions-league
+premier-league
+la-liga
+serie-a
+football-transfers
 
-水电站
-雅鲁藏布江
+# Tennis
+tennis
+atp
+wta
+grand-slam
 
-新质生产力
+# Travel & Immigration
+travel-news
+visa-updates
+work-visa
+student-visa
+permanent-residency
+immigration-policy
+green-card
+express-entry
+schengen
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+# Global News & Politics
+world-news
+global-politics
+geopolitics
+international-relations
+economic-trends
+
+# US Politics & States
+us-news
+us-politics
+us-economy
+us-elections
+white-house
+trump
+california
+new-york
+texas
+florida
+
+# Europe
+europe
+european-union
+france
+germany
+italy
+spain
+
+# Canada / UK / Australia
+canada
+canada-immigration
+uk
+uk-politics
+australia
+australia-immigration
