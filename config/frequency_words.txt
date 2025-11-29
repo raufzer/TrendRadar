@@ -1,200 +1,400 @@
 # Tech & Engineering
 golang
-go-programming
-gin-framework
-backend-development
-api-design
-distributed-systems
+go
+Go语言
+gin
+backend
+后端
+后端开发
+api
+微服务
 microservices
-real-time-bidding
+分布式
+distributed
+实时竞价
 adtech
+广告技术
 scalability
-system-design
-cloud-computing
+扩展性
+system design
+系统设计
+cloud
+云计算
 kubernetes
+k8s
 docker
+容器
 linux
-open-source
+开源
+open source
 
 # AI & Machine Learning
-artificial-intelligence
-machine-learning
-deep-learning
-generative-ai
-llm
-vector-databases
+AI
+人工智能
+machine learning
+机器学习
+deep learning
+深度学习
+generative AI
+生成式AI
+LLM
+大语言模型
+大模型
+vector database
+向量数据库
+transformer
 transformers
-ai-research
-ai-hardware
+AI研究
+AI硬件
 
 # AI Trends & Industry
-ai-trends
-agi-development
-ai-breakthroughs
-ai-startups
-ai-investments
-ai-funding
-ai-ethics
-ai-governance
-ai-safety
-ai-standards
-ai-infrastructure
-ai-cloud
-ai-chipsets
-ai-accelerators
+AI趋势
+AGI
+通用人工智能
+AI突破
+AI创业
+AI投资
+AI融资
+AI伦理
+AI治理
+AI安全
+AI标准
+AI基础设施
+AI云
+AI芯片
+AI加速器
 
 # AI Companies & Labs
-openai
-google-deepmind
-anthropic
-meta-ai
-microsoft-ai
-xai
-nvidia-ai
-amazon-ai
-ibm-watson
-huggingface
-stability-ai
-mistral-ai
-cohere-ai
-databricks
-perplexity
+OpenAI
+Google
+DeepMind
+谷歌
+Anthropic
+Claude
+Meta
+Facebook
+Microsoft
+微软
+xAI
+马斯克
+NVIDIA
+英伟达
+Amazon
+亚马逊
+IBM
+Watson
+HuggingFace
+Stability AI
+Mistral
+Cohere
+Databricks
+Perplexity
 
 # LLMs & Chatbots
-chatbots
-large-language-models
-llm-updates
-llm-benchmarks
-instruction-tuning
-rlhf
-inference-optimization
+ChatGPT
+chatbot
+聊天机器人
+大语言模型
+large language model
+LLM更新
+benchmark
+基准测试
+指令微调
+RLHF
+推理优化
+微调
 fine-tuning
-ai-agents
-autonomous-agents
-chatbot-platforms
-voice-ai
-speech-models
-multimodal-models
+AI代理
+AI agent
+智能体
+autonomous agent
+自主代理
+语音AI
+voice AI
+speech
+语音模型
+multimodal
+多模态
 
 # Research & Papers
-arxiv-ai
-neural-networks
-transformer-models
-diffusion-models
-foundation-models
-reinforcement-learning
-self-supervised-learning
-scaling-laws
-ai-evaluation
-ai-benchmarks
+arXiv
+arxiv
+neural network
+神经网络
+transformer
+扩散模型
+diffusion model
+foundation model
+基础模型
+reinforcement learning
+强化学习
+self-supervised
+自监督
+scaling law
+扩展定律
+AI评估
+AI benchmark
 
 # Productivity & Tools
-ai-coding
-ai-productivity-tools
-ai-integration
-ai-automation
-ai-workflows
+AI编程
+AI coding
+Copilot
+productivity
+生产力工具
+AI工具
+automation
+自动化
+workflow
+工作流
 
 # Mobile & Flutter
-flutter
-dart
-firebase
-cross-platform-development
+Flutter
+Dart
+Firebase
+跨平台
+cross-platform
+移动开发
+mobile development
 
 # DevOps & Tools
-devops
-cicd
+DevOps
+运维
+CI/CD
+持续集成
 monitoring
-github-copilot
-vscode
-debian
+监控
+GitHub
+Copilot
+VS Code
+VSCode
+Debian
+Ubuntu
 
 # Hardware & Laptops
-laptop-benchmarks
-nvidia
-amd
-intel
-linux-laptops
+laptop
+笔记本
+benchmark
+基准测试
+NVIDIA
+英伟达
+AMD
+Intel
+英特尔
+显卡
+GPU
+Linux笔记本
 
 # UFC / MMA
-ufc
-mma
-dana-white
-ufc-fight-night
-ufc-ppv
-pfl
-bellator
+UFC
+MMA
+综合格斗
+Dana White
+达纳怀特
+fight night
+格斗之夜
+PPV
+PFL
+Bellator
 
 # Formula 1
-f1
-formula-1
-grand-prix
-f1-qualifying
-f1-standings
+F1
+Formula 1
+方程式
+Grand Prix
+大奖赛
+qualifying
+排位赛
+赛车
+车手
+Hamilton
+汉密尔顿
+Verstappen
+维斯塔潘
+Ferrari
+法拉利
+Red Bull
+红牛
+Mercedes
+梅赛德斯
 
 # Basketball
-nba
-nba-trades
-nba-playoffs
-euroleague
+NBA
+basketball
+篮球
+trade
+交易
+playoff
+季后赛
+总决赛
+finals
+EuroLeague
+欧洲篮球
+CBA
+Lakers
+湖人
+Warriors
+勇士
+Celtics
+凯尔特人
+LeBron
+勒布朗
+Curry
+库里
 
 # Football (Soccer)
 football
+足球
 soccer
-champions-league
-premier-league
-la-liga
-serie-a
-football-transfers
+Champions League
+欧冠
+Premier League
+英超
+La Liga
+西甲
+Serie A
+意甲
+转会
+transfer
+世界杯
+World Cup
+欧洲杯
+Messi
+梅西
+Ronaldo
+C罗
+曼联
+Manchester United
+皇马
+Real Madrid
+巴萨
+Barcelona
 
 # Tennis
 tennis
-atp
-wta
-grand-slam
+网球
+ATP
+WTA
+Grand Slam
+大满贯
+Wimbledon
+温网
+Australian Open
+澳网
+French Open
+法网
+US Open
+美网
+Federer
+费德勒
+Nadal
+纳达尔
+Djokovic
+德约科维奇
 
 # Travel & Immigration
-travel-news
-visa-updates
-work-visa
-student-visa
-permanent-residency
-immigration-policy
-green-card
-express-entry
-schengen
+travel
+旅行
+旅游
+visa
+签证
+work visa
+工作签证
+student visa
+学生签证
+permanent residency
+永久居留
+PR
+immigration
+移民
+移民政策
+green card
+绿卡
+express entry
+EE
+Schengen
+申根
+出国
+留学
 
 # Global News & Politics
-world-news
-global-politics
+world news
+国际新闻
+全球新闻
+global politics
+地缘政治
 geopolitics
-international-relations
-economic-trends
+international relations
+国际关系
+economic
+经济
+economy
+经济趋势
 
 # US Politics & States
-us-news
-us-politics
-us-economy
-us-elections
-white-house
-trump
-california
-new-york
-texas
-florida
+US
+美国
+USA
+美国新闻
+US politics
+美国政治
+US economy
+美国经济
+election
+选举
+大选
+White House
+白宫
+Trump
+特朗普
+Biden
+拜登
+California
+加州
+加利福尼亚
+New York
+纽约
+Texas
+德州
+得克萨斯
+Florida
+佛罗里达
 
 # Europe
-europe
-european-union
-france
-germany
-italy
-spain
+Europe
+欧洲
+European Union
+欧盟
+EU
+France
+法国
+巴黎
+Germany
+德国
+柏林
+Italy
+意大利
+罗马
+Spain
+西班牙
+马德里
 
 # Canada / UK / Australia
-canada
-canada-immigration
-uk
-uk-politics
-australia
-australia-immigration
+Canada
+加拿大
+多伦多
+温哥华
+蒙特利尔
+Canada immigration
+加拿大移民
+UK
+英国
+伦敦
+UK politics
+英国政治
+Australia
+澳大利亚
+澳洲
+悉尼
+墨尔本
+Australia immigration
+澳洲移民
